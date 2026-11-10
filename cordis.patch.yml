@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-ride
+      name: '@local/dsh-ride'

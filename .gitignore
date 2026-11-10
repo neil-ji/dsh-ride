@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+*.log
+
+# 本地 swiftc 构建产物（见 README「编译边车」）
+build/
+
+# 改动前的手工备份
+.backup/
+
+# 舰队协作产物（任务结果、审计报告、证据日志）
+.dsh-collaboration/

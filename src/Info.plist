@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>local.ridebridge.cli</string>
+	<key>CFBundleName</key>
+	<string>ride</string>
+	<key>CFBundleExecutable</key>
+	<string>ride</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>RideBridge connects to a smart trainer and a heart-rate strap.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>RideBridge connects to a smart trainer and a heart-rate strap.</string>
+</dict>
+</plist>
